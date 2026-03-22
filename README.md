@@ -20,15 +20,15 @@ The goal was to understand how a **data lake → data warehouse pipeline** actua
 
 
 S3 (CSV files)
-↓
+-->
 Snowflake Stage
-↓
+-->
 RAW tables (schema inferred)
-↓
+-->
 CLEAN tables (column mapping from c1, c2 → actual fields)
-↓
+-->
 Analytics table (product_sales)
-↓
+-->
 Snowflake Task (runs every 5 minutes)
 
 
