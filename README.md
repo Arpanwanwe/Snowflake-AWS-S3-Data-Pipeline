@@ -1,6 +1,4 @@
-# Snowflake-AWS-S3-Data-Pipeline
-
-## Snowflake + AWS S3 Data Pipeline
+#Snowflake + AWS S3 Data Pipeline
 
 ## What this project does
 
